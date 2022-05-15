@@ -1,4 +1,4 @@
-# dataAnalystProjects
+# PortfolioProjects
 This repository contains different projects developed as a data analyst / engineer. I created a stock portfolio using Excel, mysql code to interrogate data, sql code to perform data cleaning, Power Bi dashboards to both present and tell a story and python code for data cleaning and wrangling.
 
 Branch Stock Portfolio: This project contains a set of excel Stock functions to track prices every time the spredsheet is refreshed. It is devided in 2 main Sheet: a Dashboard and the history of all transactions.
